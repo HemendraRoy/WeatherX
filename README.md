@@ -1,4 +1,4 @@
-# weatherX
+# WeatherX
 
 **weatherX** is a terminal-based Weather App that allows users to fetch current weather data, view a 7-day forecast, set temperature alerts, and log weather data for future review. The app uses the OpenWeatherMap API to retrieve weather information.
 
